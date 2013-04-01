@@ -1055,8 +1055,12 @@ ul.portfolio-img li {
         padding-right: 0;
     }
 
-    .slider, .what-we-do, .portfolio {
+    .what-we-do, .portfolio {
         padding: 0 20px;
+    }
+
+    .slider {
+        padding: 0 20px
     }
 
     .what-we-do {
