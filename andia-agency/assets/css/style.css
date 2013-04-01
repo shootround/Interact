@@ -32,6 +32,13 @@ a:hover { color: #888; text-decoration: none; }
 
 strong { font-weight: bold; }
 
+/* --- Isaac's custom CSS --- */
+
+.sricon {
+    background: url(../img/sricon.png);
+    max-width: 19px;
+}
+
 
 /* ----- Header ----- */
 
@@ -62,7 +69,7 @@ strong { font-weight: bold; }
     width: 280px;
     height: 63px;
     padding: 30px 0;
-    background: url(../img/logo.png) 20px center no-repeat;
+    background: url(../img/logo2.png) 20px center no-repeat;
 }
 
 .header ul.nav {
