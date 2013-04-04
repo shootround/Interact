@@ -35,9 +35,16 @@ strong { font-weight: bold; }
 /* --- Isaac's custom CSS --- */
 
 .sricon {
-    background: url(../img/sricon.png);
-    max-width: 19px;
+    max-width: 20px; 
+    
 }
+/* -- Image CSS (More of Isaac's custom Css) --- */
+
+.image {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border: 6px solid #fff;
+}   
 
 
 /* ----- Header ----- */
