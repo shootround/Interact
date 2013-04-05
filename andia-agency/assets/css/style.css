@@ -38,12 +38,20 @@ strong { font-weight: bold; }
     max-width: 20px; 
     
 }
+
+.impact {
+    padding-top: 200px;
+}
+.lobster {
+    font-family: 'lobster';
+
+}
 /* -- Image CSS (More of Isaac's custom Css) --- */
 
 .image {
-    margin-top: 45px;
-    margin-bottom: 45px;
-    border: 6px solid #fff;
+    border-style:solid;
+    border-width:5px;
+    color: white;
 }   
 
 
@@ -189,7 +197,7 @@ strong { font-weight: bold; }
     border-bottom: 2px solid #9d426b;
 }
 
-.what-we-do .service:hover {
+.what-we-do .service: {
     box-shadow:
         0 5px 15px 0 rgba(0,0,0,.05),
         0 1px 25px 0 rgba(0,0,0,.05) inset,
@@ -569,7 +577,7 @@ footer .social a:hover { background-position: left top; }
     margin-left: 10px;
     font-family: 'Lobster', cursive;
     font-size: 24px;
-    color: #5d5d5d;
+    color: #9d426b;
     text-shadow: 0 1px 0 rgba(255, 255, 255, .7);
     vertical-align: middle;
 }
